@@ -1,0 +1,19 @@
+{
+  "name": "peer-node-fs-callback",
+  "version": "1.0.0",
+  "description": "the callback thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forente/Peer-Node-FS-Callback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forente/Peer-Node-FS-Callback/issues"
+  },
+  "homepage": "https://github.com/forente/Peer-Node-FS-Callback#readme"
+}
