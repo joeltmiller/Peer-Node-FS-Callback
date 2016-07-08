@@ -57,10 +57,11 @@ function findAvg (arr){
 }
 
 function done(numArray){
-  console.log(numArray);
-  console.log(findMin(numArray));
-  console.log(findMax(numArray));
-  console.log(findAvg(numArray));
+  //console.log(numArray);
+  console.log("Min: ",findMin(numArray));
+  console.log("Max: ",findMax(numArray));
+  console.log("Avg: ",findAvg(numArray));
+  console.log("DONE!!");
 }
 
 
